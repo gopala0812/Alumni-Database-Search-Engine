@@ -51,38 +51,32 @@ AlumniDatabase/
 ---
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository: 
 git clone https://github.com/yourusername/AlumniDatabase.git
-Navigate to the project folder:
 
-bash
-Copy code
+2.Navigate to the project folder:
 cd AlumniDatabase/src
-Compile all Java files:
 
-bash
-Copy code
+3.Compile all Java files:
 javac *.java
-Run the program:
 
-bash
-Copy code
+4.Run the program:
 java Main
-Follow the menu options to add, search, update, delete, or export alumni records.
 
-Sample Screenshots
-(Add your screenshots in the screenshots/ folder and link them here)
 
-scss
-Copy code
-![Add Alumni](screenshots/add_alumni.png)
-![Search Alumni](screenshots/search_alumni.png)
-![Export to CSV](screenshots/export_csv.png)
-Contribution
+Follow the menu options to:
+
+Add alumni
+Display alumni
+Search alumni (by name, year, or branch)
+Update or delete alumni records
+Export records to CSV
+
+## Contribution
 This project is developed as part of the B.E. CSE curriculum.
 For improvements or suggestions, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is free to use and modify for learning purposes.
 
 
