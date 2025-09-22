@@ -67,9 +67,13 @@ java Main
 Follow the menu options to:
 
 Add alumni
+
 Display alumni
+
 Search alumni (by name, year, or branch)
+
 Update or delete alumni records
+
 Export records to CSV
 
 ## Contribution
