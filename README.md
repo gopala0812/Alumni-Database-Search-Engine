@@ -32,25 +32,9 @@ It allows you to manage and search alumni records efficiently, simulating a real
 
 ---
 
-## Project Structure
-AlumniDatabase/
-│
-├── src/
-│   ├── Alumni.java          // Class representing an alumni
-│   ├── AlumniDatabase.java  // Database class handling CRUD operations
-│   ├── Searchable.java      // Interface for search methods
-│   └── Main.java            // Main program with menu interface
-│
-├── README.md                // Project documentation
-├── screenshots/             // Folder containing screenshots of program output
-│   ├── add_alumni.png
-│   ├── search_alumni.png
-│   └── export_csv.png
-└── output/                  // (Optional) Folder to save exported CSV files
-
----
 
 ## How to Run
+
 1. Clone the repository: 
 git clone https://github.com/yourusername/AlumniDatabase.git
 
